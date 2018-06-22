@@ -38,7 +38,11 @@ Edwisor course Assignment Level 4
 
     	Complete code of this api has been uploaded to my github page and address is :
  
-		https://github.com/rameshkmunjal/MeanStackAssignment_4	
+		https://github.com/rameshkmunjal/MeanStackAssignment_4
+
+	Same has been hosted with github pages at:
+
+		https://rameshkmunjal.github.io	
 
 ## Contributors
 
